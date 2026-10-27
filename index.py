@@ -23,7 +23,7 @@ for pkg in ['flask', 'requests', 'python-whois', 'dnspython']:
 
 app = Flask(__name__)
 GOOGLE_KEY = "AIzaSyDF4jhxma9fJePs5NgwY3qGsdzali238sM0"
-VT_KEY = "d7455b05fd4180085a026805906846d1ba089ddf7b1c2c6b9d418fffa6ab4ca40"
+VT_KEY = "d7455b05fd4180085a026805906846d1ba089ddf7b1c2c6b9d418fffa6ab4ca4"
 URLSCAN_KEY = "019fefb7-4cf9-74ad-9851-e6fefbf6b437"
 
 class ScanState:
